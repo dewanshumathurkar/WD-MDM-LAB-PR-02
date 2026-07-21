@@ -26,7 +26,7 @@ A semantic HTML5 webpage designed to help students create a professional online 
 professional-profile/
 │
 ├── index.html          # Main webpage
-├── profile.jpg         # Student profile photograph
+├── profile.png         # Student profile photograph
 └── README.md           # Project documentation
 ```
 
