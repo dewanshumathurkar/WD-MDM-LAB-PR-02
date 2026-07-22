@@ -34,15 +34,15 @@ professional-profile/
 
 1. **Home** – Introduction and profile photograph  
 2. **About Me** – Personal and professional summary  
-3. **Education** – Academic qualifications and results  
+3. **Education** – Academic qualifications 
 4. **Hobbies** – Interests and extracurricular activities  
-5. **Contact** – Email address, phone number, and LinkedIn/GitHub links  
+5. **Contact** – Email address, phone number
 
 ## 🚀 How to Run the Project
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Add your image as `profile.jpg`.
+3. Add your image as `profile.png`.
 4. Open `index.html` in a web browser.
 5. Replace the sample information with your own details.
 
@@ -52,11 +52,9 @@ Update the following details in `index.html`:
 
 - Your full name
 - Profile photograph
-- Career objective
 - Educational qualifications
 - Hobbies and interests
 - Email address and phone number
-- LinkedIn and GitHub profile links
 
 ## 🎯 Learning Outcomes
 
@@ -79,8 +77,8 @@ After completing this practical, students will be able to:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Student | Aspiring Professional | Future Developer 🚀
+**Dewanshu Mathurkar**  
+Student | CS25203 | Future Developer 🚀
 
 ## 📄 License
 
